@@ -1,0 +1,10 @@
+{
+    "name": "mortendhansen/application",
+    "authors": [
+        {
+            "name": "Morten D. Hansen",
+            "email": "morten@visia.dk"
+        }
+    ],
+    "require": {}
+}
