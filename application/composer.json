@@ -6,5 +6,8 @@
             "email": "morten@visia.dk"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
 }
